@@ -3,7 +3,7 @@ class config:
     APP_ID = ""
     API_HASH = ""
     DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    SUDO_USERS = "1698599637 2097831429" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
 
