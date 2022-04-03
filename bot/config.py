@@ -4,7 +4,7 @@ class config:
     API_HASH = ""
     DATABASE_URL = ""
     SUDO_USERS = "1698599637 2097831429" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "https://t.me/+lJBwgAsFxQI4MDc1"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
